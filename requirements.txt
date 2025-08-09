@@ -1,0 +1,8 @@
+statsmodels
+numpy 
+pandas
+matplotlib
+seaborn
+yfinance
+pmdarima
+pandas_profiling
